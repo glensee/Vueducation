@@ -1,0 +1,170 @@
+[
+    {
+        "questionId": 1,
+        "questionTag": [
+            "Programming",
+            "Bachelor"
+        ],
+        "questionTitle": "How to run NPM?",
+        "timeAsked": 1604063221.521698,
+        "questioner": "Frans",
+        "initial": "F",
+        "image": "https://vueducation.s3-ap-southeast-1.amazonaws.com/prog1.png",
+        "filename": "prog1.png",
+        "bestAnswerId": null
+    },
+    {
+        "questionId": 2,
+        "questionTag": [
+            "Programming",
+            "Bachelor"
+        ],
+        "questionTitle": "How to print 'Hello World'?",
+        "timeAsked": 1604063221.521698,
+        "questioner": "Kelvin",
+        "initial": "K",
+        "image": "https://vueducation.s3-ap-southeast-1.amazonaws.com/prog2.png",
+        "filename": "prog2.png",
+        "bestAnswerId": null
+    },
+    {
+        "questionId": 3,
+        "questionTag": [
+            "Physics",
+            "JC"
+        ],
+        "questionTitle": "How to do this?",
+        "timeAsked": 1604063221.521698,
+        "questioner": "Glen",
+        "initial": "G",
+        "image": "https://vueducation.s3-ap-southeast-1.amazonaws.com/physics1.jpeg",
+        "filename": "physics1.jpeg",
+        "bestAnswerId": null
+    },
+    {
+        "questionId": 4,
+        "questionTag": [
+            "Chemistry",
+            "JC"
+        ],
+        "questionTitle": "Hi, anyone can help me?",
+        "timeAsked": 1604063221.521698,
+        "questioner": "Cliffen",
+        "initial": "C",
+        "image": "https://vueducation.s3-ap-southeast-1.amazonaws.com/chem1.jpeg",
+        "filename": "chem1.jpeg",
+        "bestAnswerId": null
+    },
+    {
+        "questionId": 5,
+        "questionTag": [
+            "Biology",
+            "JC"
+        ],
+        "questionTitle": "HELPS",
+        "timeAsked": 1604063221.521698,
+        "questioner": "Sherman",
+        "initial": "S",
+        "image": "https://vueducation.s3-ap-southeast-1.amazonaws.com/biology1.jpeg",
+        "filename": "biology1.jpeg",
+        "bestAnswerId": null
+    },
+    {
+        "questionId": 6,
+        "questionTag": [
+            "Physics",
+            "Secondary"
+        ],
+        "questionTitle": "How do i do this?",
+        "timeAsked": 1604063221.521698,
+        "questioner": "Frans",
+        "initial": "F",
+        "image": "https://vueducation.s3-ap-southeast-1.amazonaws.com/physics2.png",
+        "filename": "physics2.png",
+        "bestAnswerId": null
+    },
+    {
+        "questionId": 7,
+        "questionTag": [
+            "Mathematics",
+            "Secondary"
+        ],
+        "questionTitle": "How to approach this question",
+        "timeAsked": 1604063221.521698,
+        "questioner": "Kelvin",
+        "initial": "K",
+        "image": "https://vueducation.s3-ap-southeast-1.amazonaws.com/math1.jpeg",
+        "filename": "math1.jpeg",
+        "bestAnswerId": null
+    },
+    {
+        "questionId": 8,
+        "questionTag": [
+            "Mathematics",
+            "Primary"
+        ],
+        "questionTitle": "Hi any kind soul?",
+        "timeAsked": 1604063221.521698,
+        "questioner": "Glen",
+        "initial": "G",
+        "image": "https://vueducation.s3-ap-southeast-1.amazonaws.com/math2.jpg",
+        "filename": "math2.jpg",
+        "bestAnswerId": null
+    },
+    {
+        "questionId": 9,
+        "questionTag": [
+            "Mathematics",
+            "JC"
+        ],
+        "questionTitle": "Help please",
+        "timeAsked": 1604063221.521698,
+        "questioner": "franscorfiyanto",
+        "initial": "S",
+        "image": "https://vueducation.s3-ap-southeast-1.amazonaws.com/math3.jpeg",
+        "filename": "math3.jpeg",
+        "bestAnswerId": "8"
+    },
+    {
+        "questionId": 10,
+        "questionTag": [
+            "Mathematics",
+            "Secondary"
+        ],
+        "questionTitle": "How to do?",
+        "timeAsked": 1604063221.521698,
+        "questioner": "kelvinngsl",
+        "initial": "C",
+        "image": "https://vueducation.s3-ap-southeast-1.amazonaws.com/math4.jpeg",
+        "filename": "math4.jpeg",
+        "bestAnswerId": "7"
+    },
+    {
+        "questionId": 11,
+        "questionTag": [
+            "Programming",
+            "Bachelor"
+        ],
+        "questionTitle": "How to delete first element in array?",
+        "timeAsked": 1604063221.521698,
+        "questioner": "kelvinngsl",
+        "initial": "K",
+        "image": "https://vueducation.s3-ap-southeast-1.amazonaws.com/prog3.png",
+        "filename": "prog3.png",
+        "bestAnswerId": "1"
+    },
+    {
+        "questionId": 12,
+        "questionTag": [
+            "Chemistry",
+            "Primary"
+        ],
+        "questionTitle": "How to use this?",
+        "timeAsked": 1604072285.940642,
+        "questioner": "officialtzuyu",
+        "initial": "O",
+        "image": "https://vueducation.s3-ap-southeast-1.amazonaws.com/chem2.jpeg",
+        "filename": "chem2.jpeg",
+        "bestAnswerId": "3"
+    }
+]

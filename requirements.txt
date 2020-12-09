@@ -1,0 +1,10 @@
+PyJWT==1.7.1
+boto3==1.14.60
+mysql-connector-python==8.0.21
+Flask-Cors==3.0.9
+Flask-SQLAlchemy==2.4.4
+Flask==1.1.2
+python-dotenv==0.14.0
+PyMySQL==0.10.0
+requests==2.20.1
+

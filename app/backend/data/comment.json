@@ -1,0 +1,44 @@
+[
+    {
+        "commentId": 1,
+        "questionId": 1,
+        "answerId": null,
+        "detail": "hi this is comment #1",
+        "commenter": "Yeow Leong"
+    },
+    {
+        "commentId": 2,
+        "questionId": 1,
+        "answerId": null,
+        "detail": "hi this is comment #2",
+        "commenter": "Yeow Leong"
+    },
+    {
+        "commentId": 3,
+        "questionId": null,
+        "answerId": 1,
+        "detail": "hi this is comment #1 for answer",
+        "commenter": "Yeow Leong"
+    },
+    {
+        "commentId": 4,
+        "questionId": null,
+        "answerId": 1,
+        "detail": "hi this is comment #2 for answer",
+        "commenter": "Yeow Leong"
+    },
+    {
+        "commentId": 5,
+        "questionId": null,
+        "answerId": 2,
+        "detail": "hi this is comment #1 for 2nd answer",
+        "commenter": "Yeow Leong"
+    },
+    {
+        "commentId": 6,
+        "questionId": null,
+        "answerId": 2,
+        "detail": "hi this is comment #2 for 2nd answer",
+        "commenter": "Yeow Leong"
+    }
+]
