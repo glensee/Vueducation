@@ -1,6 +1,7 @@
 # Vueducation
 
 A proof of concept aimed at bridging the gap between students and tutors
+https://www.youtube.com/watch?v=gtz5HiwLKtY
 ## Setting Up
 
 ### Backend (Flask)
