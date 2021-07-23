@@ -1,7 +1,7 @@
 # Vueducation
 
-A proof of concept aimed at bridging the gap between students and tutors
-https://www.youtube.com/watch?v=gtz5HiwLKtY
+A proof of concept aimed at bridging the gap between students and tutors  
+[![Vueducation](https://res.cloudinary.com/marcomontalbano/image/upload/v1627027783/video_to_markdown/images/youtube--vGXa3V94Zqw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/vGXa3V94Zqw "Vueducation")
 ## Setting Up
 
 ### Backend (Flask)
